@@ -63,8 +63,7 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ## Ask questions
 
-Contact 
-[Hamidreza Ostadabbas](mailto: Hamidreza.ostadabbas@steg.de)
+Contact [Hamidreza Ostadabbas](mailto:Hamidreza.ostadabbas@steg.de)
 
 ## Stay in touch with us
 
