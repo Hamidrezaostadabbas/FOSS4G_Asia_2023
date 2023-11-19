@@ -65,7 +65,7 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 Contact [Hamidreza Ostadabbas](mailto: Hamidreza.ostadabbas@steg.de)
 
-## Stay in touch with 
+## Stay in touch with us
 
 Explore GIS software tutorials, Python programming for geospatial projects, and contests in geoinformation, geodesy, surveying engineering, remote sensing, city planning, and smart city solutions. Plus, catch academic posters and paper presentations from top journals.
 
