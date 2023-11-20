@@ -17,7 +17,20 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 * There is a collection of plugins ready to be used, [available to download](https://plugins.qgis.org/plugins/).
 * These plugins can also be installed directly from the QGIS Plugin Manager within the QGIS application.
 * Plugins are developed by independent organizations and developers, the QGIS organization does not take any responsibility for them.
-* 
+
+## Examples
+> QFieldSync
+  
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/043be04a-7987-4ccd-8a00-d70dd6af69a8)
+
+> LAStools
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/5f6d55e6-7c97-4be1-827b-2ce698c3fa2e)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e39c439f-31b7-42b5-a65d-78f80a5a16af)
+
+
+
+
 
 ### QGIS Plugin installation
 
