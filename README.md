@@ -3,6 +3,12 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ## Course structure
 
+|Number|Title|Description|
+|------|------|-----------|
+|01|QGIS|-----------|
+|02|Python using Pycharm|-----------|
+|03|Qt Designer|-----------|
+
 ## Prerequisites
 
 > What do I need to know to go through this course?
