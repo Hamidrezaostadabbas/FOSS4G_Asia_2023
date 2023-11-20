@@ -13,9 +13,10 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 > What is Plugin and what is the use of it?
 
-* 
-* 
-* 
+* QGIS plugins add additional functionality to the QGIS application.
+* There is a collection of plugins ready to be used, available to download.
+* These plugins can also be installed directly from the QGIS Plugin Manager within the QGIS application.
+* Plugins are developed by independent organizations and developers, the QGIS organization does not take any responsibility for them.
 * 
 
 ### QGIS Plugin installation
