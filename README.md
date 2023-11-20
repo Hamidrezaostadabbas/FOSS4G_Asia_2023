@@ -107,6 +107,9 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ## Adding Buttons to the UI (Darg and Drop)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d43d09eb-2eec-45ed-aac6-100b4492fad7)
 
+## Spacer
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/7ee6fcf5-945f-4b52-8b1e-37c9c6d73479)
+
 
 
 ## Extensions (possible resources to dig more deep after this Workshop)
