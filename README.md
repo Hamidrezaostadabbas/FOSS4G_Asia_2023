@@ -102,8 +102,8 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/cbdcdd26-3f53-40a5-a2c8-92f2577d745b)
 
 ## Plugin Path
-![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fadbdb23-0e41-441a-bdce-af4b49c6fb40)
 
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/2f6f6c11-1dc1-4ee5-9122-067bd316daba)
 
 
 ## Extensions (possible resources to dig more deep after this Workshop)
