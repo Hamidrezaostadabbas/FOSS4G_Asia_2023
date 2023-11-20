@@ -73,6 +73,15 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b4f47df9-1371-488d-a798-3654f6cee0ef)
 
+## Creating Dialog Box
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9e1dae8b-f0a1-4f65-8d2f-ab449d2d6803)
+
+## Translating String
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6cccd870-7b58-44d5-8890-0a9e6824c0a2)
+
+
 ## Extensions (possible resources to dig more deep after this Workshop)
 
 
