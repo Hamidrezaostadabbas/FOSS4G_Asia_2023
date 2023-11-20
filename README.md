@@ -20,19 +20,19 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ### QGIS Plugin installation
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/a31ac305-2c96-4888-b146-6f4df1f2b221)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/a549805f-6c1d-400f-a7d8-70fe98cd0cad)
 
 #### Plugin Builder
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/0bde2621-c530-4cef-b904-bd1b26860487)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e5367ac0-7f40-4b5f-9ef0-a2724891142c)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/6115e59c-3f2c-4a80-9695-a70ffa7097fe)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/8db5419e-1dbd-48b9-8997-623c16a10feb)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/31b08c42-a28b-4b53-b97b-734675f25f38)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fbe5b7c7-69c8-4710-b090-223a83862bc1)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/f37be42a-f55f-43d9-a36e-e383087a5b94)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e9ef1079-6859-47e2-8afb-b0fc0f15863f)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/fca794cd-40e4-4974-8f1a-c66a8be08cc6)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/394bbaa0-24ca-4017-9091-fdc27e15e3d9)
 
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/fa14c469-2bdb-4962-ba09-5f3caed833ae)
 
