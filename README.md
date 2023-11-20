@@ -51,6 +51,12 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ### Pycharm
 
+```
+C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> default -> python -> plugins
+```
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/a15c3b16-6849-4a8f-bdd2-8724645c58ca)
+
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/ff99a31c-2487-48de-bee9-c47d0d343070)
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/f2498444-d68f-4690-b130-64448b6bcd7e)
 
