@@ -11,7 +11,7 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ## Introduction
 
-> What do I need to know to go through this course?
+> What is Plugin and what is the use of it?
 
 * 
 * 
