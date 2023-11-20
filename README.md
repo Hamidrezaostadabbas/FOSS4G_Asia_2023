@@ -87,10 +87,22 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/27d8be64-c9a2-4ca8-bfbf-cd5c97d2b490)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6dbbe0fc-3a66-4221-a9e6-3c38dcb607e7)
 
+### 
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9bfc02c5-2cf7-4b64-9110-368f34aeedd9)
+
 
 ## Translating String
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6cccd870-7b58-44d5-8890-0a9e6824c0a2)
+
+### Qt Designer
+
+## Interface
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/cbdcdd26-3f53-40a5-a2c8-92f2577d745b)
+
+## Plugin Path
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fadbdb23-0e41-441a-bdce-af4b49c6fb40)
 
 
 
