@@ -85,11 +85,12 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ### Refractor
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/27d8be64-c9a2-4ca8-bfbf-cd5c97d2b490)
-
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d26a6c87-cb6f-4d5d-b777-e2ac5d166ad3)
 
 ## Translating String
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6cccd870-7b58-44d5-8890-0a9e6824c0a2)
+
 
 
 ## Extensions (possible resources to dig more deep after this Workshop)
