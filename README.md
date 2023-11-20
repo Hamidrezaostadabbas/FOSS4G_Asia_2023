@@ -35,6 +35,10 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/2e1f2979-c642-4311-ac74-5224132cc56c)
 
 #### %AppData%
+
+```
+C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> default -> python -> plugins
+```
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/f05a33d3-8d34-4e5e-b92f-8efd1bfbf347)
 
 ![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/2b25f786-30c1-497c-9629-df404c33de7e)
