@@ -27,9 +27,7 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/5f6d55e6-7c97-4be1-827b-2ce698c3fa2e)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e39c439f-31b7-42b5-a65d-78f80a5a16af)
-
-
-
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b1aad132-1c84-4941-b02d-de24d21d3a68)
 
 
 ### QGIS Plugin installation
