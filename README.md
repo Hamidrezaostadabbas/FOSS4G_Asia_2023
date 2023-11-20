@@ -74,8 +74,17 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b4f47df9-1371-488d-a798-3654f6cee0ef)
 
 ## Creating Dialog Box
+### First we remove dialog from run section
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9b138204-203e-498e-a13a-059b47319c43)
+
+### Adding the dialog to the __init__ section
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9e1dae8b-f0a1-4f65-8d2f-ab449d2d6803)
+
+### Refractor
+
+
 
 ## Translating String
 
