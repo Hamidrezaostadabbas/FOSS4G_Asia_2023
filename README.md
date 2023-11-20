@@ -157,7 +157,10 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 
 ## Ask questions
 
-Contact [Hamidreza Ostadabbas](mailto:Hamidreza.ostadabbas@steg.de)
+> Contact
+[Hamidreza Ostadabbas](mailto:h_ostadabbas@yahoo.com)
+[Mohammad Hosseingholizadeh](mailto:m.hgzadeh@gmail.com)
+[Pouria Khadem](mailto:pouria.khademh@gmail.com)
 
 ## Stay in touch with us
 
