@@ -113,6 +113,12 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ## Changing names of the functions and what they display (Objekt Inspector, Property Editor)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b3d6f3b2-bca5-4571-b449-d60a4c4c630e)
 
+### Opening Plugin in QGIS
+#### First run the Plugin Reloader 
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d6b5181f-741e-4389-b256-0f3ff380a23e)
+
+#### Now open the created plugin
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/0d818058-b15d-4ae2-8bfe-e9520402fa46)
 
 ## Extensions (possible resources to dig more deep after this Workshop)
 
