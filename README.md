@@ -110,6 +110,8 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ## Spacer
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/7ee6fcf5-945f-4b52-8b1e-37c9c6d73479)
 
+## Changing names of the functions and what they display (Objekt Inspector, Property Editor)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b3d6f3b2-bca5-4571-b449-d60a4c4c630e)
 
 
 ## Extensions (possible resources to dig more deep after this Workshop)
