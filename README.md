@@ -34,11 +34,11 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/394bbaa0-24ca-4017-9091-fdc27e15e3d9)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/fa14c469-2bdb-4962-ba09-5f3caed833ae)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c5c52005-f856-4962-9204-eb2b97a7de7a)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/e3d15d75-aa0a-4e5e-9295-76953909f195)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/27d3fb23-e832-4352-8071-3c11dfd5e022)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/2e1f2979-c642-4311-ac74-5224132cc56c)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/1a931d72-ace6-4819-b4e4-f22c6768273c)
 
 #### %AppData%
 
