@@ -94,7 +94,6 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6dbbe0fc-3a66-4221-a9e6-3c38dcb607e7)
 
 ### 
-
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9bfc02c5-2cf7-4b64-9110-368f34aeedd9)
 
 
@@ -110,7 +109,7 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ## Plugin Path
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/2f6f6c11-1dc1-4ee5-9122-067bd316daba)
 
-## Adding Buttons to the UI (Darg and Drop)
+## Adding Buttons to the UI (Drag and Drop)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d43d09eb-2eec-45ed-aac6-100b4492fad7)
 
 ## Spacer
