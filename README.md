@@ -45,19 +45,19 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 ```
 C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> default -> python -> plugins
 ```
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/f05a33d3-8d34-4e5e-b92f-8efd1bfbf347)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/7a91acf4-e2bc-41f0-8128-91bdd3ac9946)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/2b25f786-30c1-497c-9629-df404c33de7e)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6b07d05c-cd41-4252-9032-fe8dd4f7e39c)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/0f2ba97e-9796-49c6-9f36-b490cff9b836)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/af5f9977-a943-4f96-b28e-eff2dc678a04)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/ad3129ea-ead0-4892-9603-023b26d993b6)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e7c136aa-c5c7-4fd4-a142-1939bc447ded)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/06cf96e0-6ae2-4f69-ae0e-bc0fbd9aecb1)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/822f0cee-3b23-4b6c-9f30-041fd87ca461)
 
 #### Plugin Reloader
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/a07c57ab-ecaf-4a30-82a5-3ffb39e74914)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/0d8d41f4-a48a-4c57-b459-09395791737c)
 
 ### Pycharm
 
@@ -69,9 +69,11 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/a15c3b16-6849-4a8f-bdd2-8724645c58ca)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/ff99a31c-2487-48de-bee9-c47d0d343070) ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/a568139a-453d-45ca-9f35-75d214f28f56)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/2fc6916f-9277-4f5d-83f0-e8294ba86753)
 
-![image](https://github.com/Pouriakh7/FOSS4G/assets/104430434/f2498444-d68f-4690-b130-64448b6bcd7e)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/a568139a-453d-45ca-9f35-75d214f28f56)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9202adba-7d8b-40ac-9235-047f5bf442c9)
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/bcf6aa97-9f19-4d52-9274-004d274d9970)
 
