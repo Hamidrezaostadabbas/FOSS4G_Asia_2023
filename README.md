@@ -69,7 +69,7 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/bcf6aa97-9f19-4d52-9274-004d274d9970)
 
-## Button creation ()
+## Button creation (def initGui(self):)
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b4f47df9-1371-488d-a798-3654f6cee0ef)
 
