@@ -7,7 +7,7 @@ Python Plugin Development Workshop at FOSS4G Asia 2023
 |------|------|-----------|
 |01|QGIS|[QGIS installation](https://www.youtube.com/watch?v=Erwg2BRLnNA&list=PLCxnvDblgXGQHKgnbRTFB6a6AeKqYy9-9&index=18)|
 |02|Python using Pycharm|[How to install Python, PyCharm and Virtual Environment](https://youtu.be/rj1YDH5ts7Y?si=pBxl3oTa9T2KrXK2)|
-|03|Qt Designer|[Introduction to Creating a QGIS Plugin](https://youtu.be/g8tbzx3fudY?si=OPP-c4eqjYM1mQ9V) From 00:18:20|
+|03|Qt Designer|[Introduction to Creating a QGIS Plugin](https://youtu.be/g8tbzx3fudY?si=OPP-c4eqjYM1mQ9V) (From 00:18:20)|
 
 ## Introduction
 
