@@ -123,6 +123,12 @@ C: Drive -> Users -> Your Username -> AppData -> Roaming -> QGIS -> profiles -> 
 ## Functionalising a Button
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/0c7ee52e-6ea5-406f-ab7c-f850e3a3c76d)
 
+## Testing in QGIS
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c97a4908-1d5a-4e09-9150-665dfe3dc82d)
+
+## Metadata
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/eb5f4e06-53ff-477c-ac14-0588dfd0ac49)
+
 ## Extensions (possible resources to dig more deep after this Workshop)
 
 
