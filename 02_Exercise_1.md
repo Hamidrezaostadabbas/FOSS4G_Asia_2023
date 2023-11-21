@@ -8,7 +8,6 @@
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/8db5419e-1dbd-48b9-8997-623c16a10feb)
 
-> 
 
 |Title|Description|
 |------|-----------|
@@ -16,7 +15,7 @@
 |Plugin name|Simple title for the frontend of the Software/Plugin|
 |Description||
 |Module name|Everthing should be **lower_case** and separated with underline|
-|Version number||
+|Version number (0.0.0)| First Number -> New Version, Second Number -> Update(New Feature), Third -> Minor Bug fixes|
 |Minimum QGIS version||
 |Author/Company||
 |Email address||
