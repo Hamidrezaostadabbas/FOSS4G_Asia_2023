@@ -8,6 +8,20 @@
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/8db5419e-1dbd-48b9-8997-623c16a10feb)
 
+> 
+
+|Title|Description|
+|------|-----------|
+|Class name|Always should be **CamelCase**|
+|Plugin name|Simple title for the frontend of the Software/Plugin|
+|Description||
+|Module name|Everthing should be **lower_case** and separated with underline|
+|Version number||
+|Minimum QGIS version||
+|Author/Company||
+|Email address||
+
+
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fbe5b7c7-69c8-4710-b090-223a83862bc1)
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e9ef1079-6859-47e2-8afb-b0fc0f15863f)
