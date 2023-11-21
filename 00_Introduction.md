@@ -26,3 +26,6 @@
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6fb569ef-c0ec-4ac2-b0b4-94a2983bfac5)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b1aad132-1c84-4941-b02d-de24d21d3a68)
 
+> What is PyQGIS and what is the use of it?
+
+* 
