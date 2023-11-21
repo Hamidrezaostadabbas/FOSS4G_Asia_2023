@@ -8,6 +8,14 @@
 
 ## Introduction
 
+
+> What is PyQGIS and what is the use of it?
+
+* PyQGIS is the Python API for QGIS, allowing you to extend and customize QGIS functionality through scripting.
+* Whether you are a GIS professional, a researcher, or a developer, learning PyQGIS opens up a world of possibilities for automating tasks, building custom plugins, and exploring advanced geospatial analysis.
+* [PyQGIS Documentation](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html)
+  
+
 > What is Plugin and what is the use of it?
 
 * QGIS plugins add additional functionality to the QGIS application.
@@ -26,9 +34,3 @@
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6fb569ef-c0ec-4ac2-b0b4-94a2983bfac5)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b1aad132-1c84-4941-b02d-de24d21d3a68)
 
-> What is PyQGIS and what is the use of it?
-
-* PyQGIS is the Python API for QGIS, allowing you to extend and customize QGIS functionality through scripting.
-* Whether you are a GIS professional, a researcher, or a developer, learning PyQGIS opens up a world of possibilities for automating tasks, building custom plugins, and exploring advanced geospatial analysis.
-* [PyQGIS Documentation](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html)
-  
