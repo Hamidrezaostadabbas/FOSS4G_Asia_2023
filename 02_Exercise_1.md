@@ -13,12 +13,12 @@
 |------|-----------|
 |Class name|Always should be **CamelCase**|
 |Plugin name|Simple title for the frontend of the Software/Plugin|
-|Description||
+|Description|-----------|
 |Module name|Everthing should be **lower_case** and separated with underline|
-|Version number (0.0.0)| First Number -> New Version, Second Number -> Update(New Feature), Third -> Minor Bug fixes|
-|Minimum QGIS version||
-|Author/Company||
-|Email address||
+|Version number (0.0.0)| First Number -> New Version, Second Number -> Updates(New Feature), Third Number-> Minor Bug fixes|
+|Minimum QGIS version| Minimum Version which is necessary for the plugin|
+|Author/Company|-----------|
+|Email address|-----------|
 
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fbe5b7c7-69c8-4710-b090-223a83862bc1)
