@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/hello_gis" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
