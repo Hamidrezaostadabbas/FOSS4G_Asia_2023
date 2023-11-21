@@ -30,3 +30,5 @@
 
 * PyQGIS is the Python API for QGIS, allowing you to extend and customize QGIS functionality through scripting.
 * Whether you are a GIS professional, a researcher, or a developer, learning PyQGIS opens up a world of possibilities for automating tasks, building custom plugins, and exploring advanced geospatial analysis.
+* [PyQGIS Documentation](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html)
+  
