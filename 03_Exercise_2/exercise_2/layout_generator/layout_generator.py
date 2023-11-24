@@ -37,7 +37,6 @@ class LayoutGenerator:
 
     def __init__(self, iface):
         """Constructor.
-
         :param iface: An interface instance that will be passed to this class
             which provides the hook by which you can manipulate the QGIS
             application at run time.
@@ -45,14 +44,13 @@ class LayoutGenerator:
         """
         # Save reference to the QGIS interface
         self.iface = iface
+        # new variables
+        self.layout_generator_dialog = LayoutGeneratorDialog()
         # initialize plugin directory
         self.plugin_dir = os.path.dirname(__file__)
         # initialize locale
         locale = QSettings().value('locale/userLocale')[0:2]
-        locale_path = os.path.join(
-            self.plugin_dir,
-            'i18n',
-            'LayoutGenerator_{}.qm'.format(locale))
+        locale_path = os.path.join(self.plugin_dir, 'i18n', 'LayoutGenerator_{}.qm'.format(locale))
 
         if os.path.exists(locale_path):
             self.translator = QTranslator()
@@ -82,18 +80,10 @@ class LayoutGenerator:
         # noinspection PyTypeChecker,PyArgumentList,PyCallByClass
         return QCoreApplication.translate('LayoutGenerator', message)
 
-
     def add_action(
-        self,
-        icon_path,
-        text,
-        callback,
-        enabled_flag=True,
-        add_to_menu=True,
-        add_to_toolbar=True,
-        status_tip=None,
-        whats_this=None,
-        parent=None):
+            self, icon_path, text, callback, enabled_flag=True, add_to_menu=True, add_to_toolbar=True, status_tip=None,
+            whats_this=None, parent=None
+    ):
         """Add a toolbar icon to the toolbar.
 
         :param icon_path: Path to the icon for this action. Can be a resource
@@ -161,15 +151,20 @@ class LayoutGenerator:
         """Create the menu entries and toolbar icons inside the QGIS GUI."""
 
         icon_path = ':/plugins/layout_generator/icon.png'
-        self.add_action(
-            icon_path,
-            text=self.tr(u'Layout Generator'),
-            callback=self.run,
-            parent=self.iface.mainWindow())
+        self.add_action(icon_path, text=self.tr(u'Layout Generator'), callback=self.run, parent=self.iface.mainWindow())
+
+        self.layout_generator_dialog.addDataPushButton.clicked.connect(self.__load_data_with_symbol)
+        self.layout_generator_dialog.pdfGeneratorPushButton.clicked.connect(self.__print_map)
 
         # will be set False in run()
         self.first_start = True
 
+    def __load_data_with_symbol(self):
+        print(self.layout_generator_dialog.buildingFileWidget.filePath())
+        print(self.layout_generator_dialog.landParcelFileWidget.filePath())
+
+    def __print_map(self):
+        pass
 
     def unload(self):
         """Removes the plugin menu item and icon from QGIS GUI."""
@@ -179,20 +174,18 @@ class LayoutGenerator:
                 action)
             self.iface.removeToolBarIcon(action)
 
-
     def run(self):
         """Run method that performs all the real work"""
 
         # Create the dialog with elements (after translation) and keep reference
         # Only create GUI ONCE in callback, so that it will only load when the plugin is started
-        if self.first_start == True:
+        if self.first_start:
             self.first_start = False
-            self.dlg = LayoutGeneratorDialog()
 
         # show the dialog
-        self.dlg.show()
+        self.layout_generator_dialog.show()
         # Run the dialog event loop
-        result = self.dlg.exec_()
+        result = self.layout_generator_dialog.exec_()
         # See if OK was pressed
         if result:
             # Do something useful here - delete the line containing pass and
