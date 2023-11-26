@@ -58,23 +58,40 @@
          <string>Info</string>
         </property>
         <layout class="QGridLayout" name="gridLayout_4">
-         <item row="0" column="1">
-          <widget class="QLineEdit" name="mapTitleLineEdit"/>
-         </item>
          <item row="0" column="3">
           <widget class="QLineEdit" name="cityNameLineEdit"/>
          </item>
-         <item row="0" column="0">
-          <widget class="QLabel" name="mapTitleLabel">
-           <property name="text">
-            <string>Map Title</string>
-           </property>
-          </widget>
+         <item row="0" column="1">
+          <widget class="QLineEdit" name="layoutTitleLineEdit"/>
          </item>
          <item row="0" column="2">
           <widget class="QLabel" name="cityNameLabel">
            <property name="text">
             <string>City Name</string>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QLabel" name="layoutTitleLabel">
+           <property name="text">
+            <string>Layout Title</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="1" colspan="3">
+          <widget class="QgsFileWidget" name="pdfDirectoryFileWidget">
+           <property name="storageMode">
+            <enum>QgsFileWidget::GetDirectory</enum>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QLabel" name="pdfDirectoryLabel">
+           <property name="frameShadow">
+            <enum>QFrame::Sunken</enum>
+           </property>
+           <property name="text">
+            <string>PDF Directory</string>
            </property>
           </widget>
          </item>

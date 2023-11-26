@@ -25,11 +25,15 @@ from qgis.PyQt.QtCore import QSettings, QTranslator, QCoreApplication
 from qgis.PyQt.QtGui import QIcon
 from qgis.PyQt.QtWidgets import QAction
 
-# Initialize Qt resources from file resources.py
 from .resources import *
-# Import the code for the dialog
 from .layout_generator_dialog import LayoutGeneratorDialog
 import os.path
+
+from .core_functions import (
+    import_vector_layer, display_vector_layer, zoom_to_layer, qml_loader, get_script_path_plugin
+)
+
+from .layout import layout_executor
 
 
 class LayoutGenerator:
@@ -160,11 +164,23 @@ class LayoutGenerator:
         self.first_start = True
 
     def __load_data_with_symbol(self):
-        print(self.layout_generator_dialog.buildingFileWidget.filePath())
-        print(self.layout_generator_dialog.landParcelFileWidget.filePath())
+        layers = [
+            ('land_parcels', 'Land parcel', self.layout_generator_dialog.landParcelFileWidget.filePath()),
+            ('buildings', 'Buildings', self.layout_generator_dialog.buildingFileWidget.filePath()),
+        ]
+        for layer in layers:
+            imported_layer = import_vector_layer(layer[-1], layer[1])
+            display_vector_layer(imported_layer, layer[1])
+            qml_loader(imported_layer, f"{get_script_path_plugin()}/qml/{layer[0]}.qml")
+            zoom_to_layer(imported_layer)
 
     def __print_map(self):
-        pass
+        layout_title = self.layout_generator_dialog.layoutTitleLineEdit.text()
+        city_name = self.layout_generator_dialog.cityNameLineEdit.text()
+        layers_name = ['Buildings', 'Land parcel']
+        pdf_path = f"{self.layout_generator_dialog.pdfDirectoryFileWidget.filePath()}/pdf_{layout_title}"
+        print(self.layout_generator_dialog.pdfDirectoryFileWidget.filePath())
+        layout_executor(layers_name, layout_title, city_name, pdf_path)
 
     def unload(self):
         """Removes the plugin menu item and icon from QGIS GUI."""
