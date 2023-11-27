@@ -75,6 +75,35 @@
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c97a2741-12d4-458a-8817-ed08eba6c084)
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/091efe9c-8ed3-4d18-8c6e-1e94aa1e8ece)
 
+### Qt Designer
+![Screenshot (56)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/26f9764c-dc10-40d9-a53b-5ea7c05791e4)
+
+### Click on this button for responsiveness of the plugin window
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/3dc8a83d-908e-4cee-be00-73f26ebd9185)
+
+### Group Box
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/f961b82d-1d1e-4eae-8df7-841f160e8371)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/3ddcc797-b95b-4a4f-a147-353e8a80a3c5)
+![Screenshot (61)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/99b99e80-435e-4805-ba84-5983fcdbde0a)
+
+### Label
+![Screenshot (62)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c7357e98-aebe-4058-96d9-e39568db2909)
+![Screenshot (63)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c4735749-0065-4800-ace8-8afa97a6568b)
+
+### QgsFileWidget
+![Screenshot (66)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c175cad0-8fe5-4f67-9270-ae68c6f53323)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/28ca9583-93ee-42fe-9bf7-4a4f2297fcdb)
+![Screenshot (69)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/b2e4475e-95f8-4579-85e4-91abd9be6d3f)
+
+### Horizontal Spacer
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/27e51f49-2176-4b2d-b099-8d240c70012e)
+
+### StorageMode
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fbe8fab0-d988-4b9b-9727-50a19c938919)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/fc12dc3a-cf35-454b-a98f-7d908a6e5e32)
+
+
 ### Exercise 2 Plugin Interface
 ![Screenshot (11)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d1da12a0-9f55-42e6-b9d4-0202dc0ed9de)
 
