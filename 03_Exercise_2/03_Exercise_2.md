@@ -1,4 +1,4 @@
-![Screenshot (15)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/6429e479-7a70-442e-ad6f-20e5f48f6222)### Creating git repository
+### Creating git repository
 
 ![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/2f86a7a1-54fa-4897-8a9f-63ae75cb4919)
 
@@ -26,6 +26,54 @@
 ### Now you can have access to the plugin through the QGIS Software
 ![Screenshot (9)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/e0b3c09e-3f04-4aa3-9e62-e0521a1cf455)
 ![Screenshot (10)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/be9926c9-938b-46cf-bd82-f8f046113aa9)
+
+
+#### Code Explanation
+### Opening the plugin code
+![Screenshot (17)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/73157e61-5dbb-4ce6-a150-3416ec29fe86)
+
+> First we need to create two .py file:
+* core_functions.py
+* layout_generator.py
+
+### Core Functions
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/273dd52f-3952-499d-af27-78d40c8cb96b)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/39630349-bb62-4abb-af7a-6615ebbd8c4c)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/86b7c2fd-3413-4505-894d-2d1ba156b2e8)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/83f862fb-8c5c-48fb-abb4-e66d16bce4ce)
+
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/9441b841-4505-47e5-bb56-d3e10bcb321f)
+
+### Creating Legend
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d50c962b-97d1-4b7a-a020-97cf4b2e896d)
+
+### PDF Exporter Function
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/518ba8ed-efc0-4bad-b01c-def6ef2a0893)
+
+### Function for labeling
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/94b013b3-6e86-4eb4-9fe5-90c93f716e02)
+
+### Function for Layout Creation (Similar to QGIS)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/f23ac329-89d4-48d7-992b-2308e05811c2)
+
+#### layout_generator.py
+![Screenshot (39)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/75b52729-b616-4efe-ac2d-7809953a1fe6)
+
+### init Functions
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/958e7265-af48-401c-982f-c7cf66cf9164)
+
+### Importing Required functions
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/f6a8e24e-b294-49d4-aa85-1cb3b17d27fa)
+
+### initGui and load data with symbol
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/168250cd-9855-4cf7-9f5b-f5d873f30ff2)
+
+### Print Map 
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/c97a2741-12d4-458a-8817-ed08eba6c084)
+![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/091efe9c-8ed3-4d18-8c6e-1e94aa1e8ece)
 
 ### Exercise 2 Plugin Interface
 ![Screenshot (11)](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/d1da12a0-9f55-42e6-b9d4-0202dc0ed9de)
