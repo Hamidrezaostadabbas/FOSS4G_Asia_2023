@@ -11,7 +11,7 @@
 
 |Title|Description|
 |------|-----------|
-|Class name|Always should be **CamelCase**|
+|Class name||
 |Plugin name|Simple title for the frontend of the Software/Plugin|
 |Description|-----------|
 |Module name|Everthing should be **lower_case** and separated with underline|
